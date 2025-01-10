@@ -97,7 +97,7 @@ Contributions sind willkommen! Du kannst:
 
 ## 📜 Lizenz
 
-MIT License - siehe [LICENSE](LICENSE) Datei.
+CC4  License - siehe [LICENSE](LICENSE) Datei.
 
 ## 🙏 Danksagung
 
