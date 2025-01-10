@@ -173,6 +173,10 @@
             e.preventDefault();
         }
 
+        // deine funktionen nur hier damit sie isoliert bleiben!
+        // ... 
+        // Ende dein Code
+
         // Overlay Position Status
         let isDragging = false;
         let currentX = parseInt(localStorage.getItem('overlayX') || '0');
