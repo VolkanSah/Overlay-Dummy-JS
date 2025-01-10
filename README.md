@@ -81,7 +81,7 @@ Anpassung des Designs über CSS-Variablen möglich.
 1. Importiere das Template in dein Projekt.
 2. Passe die Metadaten an deine Bedürfnisse an.
 3. Füge deinen eigenen Content in die vorgesehenen Bereiche ein.
-4. Erweitere die Funktionalität nach Bedarf. bitte beachte [note.js](node.js) 
+4. Erweitere die Funktionalität nach Bedarf. bitte beachte [note.js](note.js) 
 
 ## 🤝 Beitragen
 
