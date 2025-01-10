@@ -105,5 +105,5 @@ MIT License - siehe [LICENSE](LICENSE) Datei.
 - Besonderer Dank an SirDafiPlug.
 
 ---
-*Entwickelt mit ❤️ für die TSO Watch Community.*
+*Entwickelt mit ❤️ für die TSO Watch Community von [volkansah](https://github.com/volkansah).*
 
