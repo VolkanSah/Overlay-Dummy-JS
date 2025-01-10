@@ -100,7 +100,7 @@
         overlay.style.transform = `translate3d(${currentX}px, ${currentY}px, 0)`;
 
         // Rest des Basis-Codes...
-        // (Der Rest des Event-Handling Codes bleibt unverändert)
+        // (Der Rest des Event-Handling Codes bleibt unverändert - SIEHE BITTE Overlay-Dummy.js . Wieso? Moep einfach! War mir zu plöööt es nochmal hier rein zu schreiben. *lol)
     }
 
     // Overlay starten
